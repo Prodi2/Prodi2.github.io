@@ -526,7 +526,7 @@ display: flex;
 #insta{
 height: 6%;
 width: 5%;
-padding-right: 2%;
+margin-right: 2%;
 margin-left: 4%;
 margin-bottom: 4%;
 transition: 500ms ease-in-out;
