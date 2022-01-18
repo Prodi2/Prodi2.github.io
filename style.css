@@ -661,3 +661,10 @@ label {
 #bouton {
   background-color: cadetblue;
 }
+input {
+  font-family: 'NewRoboto';
+}
+
+textarea {
+  font-family: 'NewRoboto'  ;
+}
